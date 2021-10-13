@@ -6,4 +6,5 @@ On the Crypto Doyen app users can list top 250 crypto coin on the scroll view. T
 This app uses MVVM Architecture, Comine and Core Data. It uses SwiftUI. Therefore, it is written 100% in Swift. The benefits of this project are multi-threading, publishers/subscribers and data persistance. The app contains currencies of cryptos according to the free API from CoinGecko. 
 
 ![alt-text](https://github.com/ozanbarisgunaydin/CryptoDoyen/blob/main/CryptoDoyenGif2.gif)
-![alt-text](file:///Users/ozanbarisgunaydin/Desktop/Simulator%20Screen%20Recording%20-%20iPhone%2013%20-%202021-10-13%20at%2015.17.37.gif)
+
+![alt-text](https://github.com/ozanbarisgunaydin/CryptoDoyen/blob/main/CryptoDoyenGif.gif)
